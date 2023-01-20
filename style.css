@@ -1,3 +1,28 @@
 *{
     margin: 0;
 }
+.mmr-slider{
+    height: 100vh !important;
+    background-color: rgb(70, 69, 69);
+    background-blend-mode: multiply;
+}
+.mmr-slider-1{
+    width: 100%;
+    height: 100%;
+    background-image: url(images/carousel/1.jpg) !important;
+    background-size: cover;
+}
+.mmr-slider-2{
+    width: 100%;
+    height: 100%;
+    background-image: url(images/carousel/2.jpg);
+    background-size: cover;
+}
+.mmr-slider-3{
+    width: 100%;
+    height: 100%;
+    background-image: url(images/carousel/3.jpg);
+}
+.client-img{
+    width: 16% !important;
+}
