@@ -26,3 +26,9 @@
 .client-img{
     width: 16% !important;
 }
+.ul-li{
+    list-style: none;
+}
+.ul-li li{
+    line-height: 250%;
+}
